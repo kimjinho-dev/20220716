@@ -3,7 +3,9 @@
 ### 글로먼저 적고 실사용해보기
 
 #### 1. 작업준비하기
+
 (1) 폴더 생성후 visual 프로그램 키기
+    + git init 으로 로컬저장소 생성하기
 (2) .gitignore 과 README.MD 먼저 생성시키기
 (3) git add . 으로 working derotory에 올리기
 (4) git commit -m '[커밋이름]' 으로 커밋하기
